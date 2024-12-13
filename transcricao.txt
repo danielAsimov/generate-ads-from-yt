@@ -1,0 +1,28 @@
+**E-mail:**
+
+Assunto: Apresentação do Projeto A1 - Super Computador
+
+Olá [Nome],
+
+Espero que você esteja bem! Estou animado para compartilhar um resumo do nosso projeto A1, um super computador desenvolvido para rodar modelos de inteligência artificial com eficiência impressionante. Equipado com um processador Ryzen 9 7950X, 32 threads e duas placas de vídeo RTX 3090, este sistema não só executa LLMs a uma velocidade incrível, mas também permite testagens em projetos multimodais, como geração de imagem e transcrição de áudio.
+
+Além disso, o A1 possui um sistema operacional otimizado, garantindo que todos os membros da equipe possam se conectar e explorar novas possibilidades em IA. Estou ansioso para discutir mais detalhes e os resultados dos testes de desempenho que realizamos.
+
+Aguardo seu retorno!
+
+Atenciosamente,  
+[Seu Nome]
+
+---
+
+**WhatsApp:**
+
+Oi, pessoal! 🚀
+
+Quero compartilhar algo incrível: acabamos de finalizar o A1, nosso super computador para inteligência artificial! 🖥️
+
+Com um processador Ryzen 9 7950X e duas RTX 3090, ele roda LLMs a uma velocidade impressionante! 
+
+Além disso, conseguimos testar projetos de visão computacional e transcrição de áudio com um desempenho quase 15 vezes mais rápido que um MacBook Pro! 
+
+Estou ansioso para mostrar tudo isso para vocês! 💡
